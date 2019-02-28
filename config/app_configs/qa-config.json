@@ -1,0 +1,7 @@
+{
+  "rethinkdb": {
+    "host": "ip-172-31-93-167.ec2.internal",
+    "port": 28015,
+    "db": "dental_chat_rethink"
+  }
+}
